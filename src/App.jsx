@@ -18,6 +18,7 @@ const Contenedor = styled.div`
     column-gap: 2rem;
 
   }
+  padding-bottom: 5rem;
 `
 
 const Imagen = styled.img`
